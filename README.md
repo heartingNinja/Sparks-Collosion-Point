@@ -1,6 +1,6 @@
 # CollisionSparks
 
-This Unity script, `CollisionSparks`, is designed to trigger a visual sparks effect at the point of impact during collisions. The effect activates when the rigid body is moving over a threshold in mph and a layer is hit. Then it automatically deactivates when the collision ends.
+This Unity script, `CollisionSparks`, is designed to trigger a visual sparks effect at the point of impact during collisions. The effect activates when the rigidbody is moving over a threshold in mph and a layer is hit. Then it automatically deactivates when the collision ends.
 
 ## Setup Instructions
 
