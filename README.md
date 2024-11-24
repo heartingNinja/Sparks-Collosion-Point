@@ -4,7 +4,7 @@ This Unity script, `CollisionSparks`, is designed to trigger a visual sparks eff
 
 ## Setup Instructions
 
-1. **Attach Script**: Add the `CollisionSparks` script to the GameObject with the Collider where you want sparks to appear upon collision.
+1. **Attach Script**: Add the `CollisionSparks` script to the GameObject with the Collider where you want sparks to appear upon collision. It will also need to be on the parent object that has a rigidbody.
   
 2. **Assign References**:
    - **Sparks Trigger**: Drag your sparks GameObject (e.g., `Sparks_VFX`) to the `sparksTrigger` field in the Inspector. This GameObject will move to the collision point when a collision occurs.
